@@ -1,9 +1,8 @@
 # 🔒 GeraPass: Gerador de Senhas
 
 Um aplicativo completo em Flutter para gerar e gerenciar senhas com segurança, utilizando Firebase para autenticação e armazenamento no Cloud Firestore.
+
 <img width="658" height="911" alt="image" src="https://github.com/user-attachments/assets/11914804-7945-48b6-a143-253d1f67514d" /> <img width="657" height="914" alt="image" src="https://github.com/user-attachments/assets/2ef70c0c-67d4-47ec-ace3-97168442e249" />
-
-
 
 ## Features Principais
 
@@ -53,7 +52,7 @@ Aqui está uma breve descrição dos principais arquivos que compõem o núcleo 
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 1.  **Configure o Firebase:**
     * Crie um projeto no console do Firebase.
