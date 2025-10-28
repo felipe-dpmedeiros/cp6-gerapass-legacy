@@ -1,8 +1,9 @@
 # 🔒 GeraPass: Gerador de Senhas
 
 Feito por:
-Felipe Della Paschoa de Medeiros - 98157
-Gabriel Iruela del Pozo - 551425
+* Felipe Della Paschoa de Medeiros - 98157
+
+* Gabriel Iruela del Pozo - 551425
 
 Um aplicativo completo em Flutter para gerar e gerenciar senhas com segurança, utilizando Firebase para autenticação e armazenamento no Cloud Firestore.
 
